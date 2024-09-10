@@ -263,7 +263,10 @@
     event.preventDefault();
     let screenshots = JSON.parse(screenshotsJson);
     let screenshotsHtml = screenshots.map(screenshot => 
-        `<img src="images/portfolio-screenshots/${screenshot}" style="width: 100%; margin-bottom: 10px; border-radius: 15px;">`
+        `<a href="images/portfolio-screenshots/${screenshot}" target="_blank">
+            <img src="images/portfolio-screenshots/${screenshot}" style="width: 100%; margin-bottom: 10px; border-radius: 15px;">
+         </a>
+        `
     ).join('');
     Swal.fire({
         title: 'Screenshots',
