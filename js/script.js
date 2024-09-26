@@ -99,7 +99,10 @@ const imageUrls = [
   "https://nimawebdev.ir/images/portfolio-screenshots/GameEmpire-SC-2.webp",
   "https://nimawebdev.ir/images/portfolio-screenshots/GameEmpire-SC-3.webp",
   "https://nimawebdev.ir/images/portfolio-screenshots/FTGS-SC-1.webp",
-  "https://nimawebdev.ir/images/portfolio-screenshots/FTGS-SC-2.webp"
+  "https://nimawebdev.ir/images/portfolio-screenshots/FTGS-SC-2.webp",
+  "https://nimawebdev.ir/images/portfolio-screenshots/EmeraldShop-SC-1.webp",
+  "https://nimawebdev.ir/images/portfolio-screenshots/EmeraldShop-SC-2.webp",
+  "https://nimawebdev.ir/images/portfolio-screenshots/EmeraldShop-SC-3.webp"
 ];
 
 // Preload images
